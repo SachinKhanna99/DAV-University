@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774634609427",
+    "firebase_url": "https://dav-universit.firebaseio.com",
+    "project_id": "dav-universit",
+    "storage_bucket": "dav-universit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774634609427:android:c9de3d73f3b57aebc998e6",
+        "android_client_info": {
+          "package_name": "sachin.flutter.davteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774634609427-42hkuknrkpl1673jecp15vrvq3jquj13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEk1PwGDmUEAULxhiNddCMKW-KC8v1Ck4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774634609427-42hkuknrkpl1673jecp15vrvq3jquj13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

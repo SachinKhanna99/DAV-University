@@ -17,6 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
         if(snapshot.connectionState==ConnectionState.active){
           FirebaseUser user=snapshot.data;
           if(user==null){
+            //good
           return MainScreen();
           }
           return SecondPage();
